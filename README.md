@@ -31,7 +31,11 @@ This is a basic calculator application built with Python's Tkinter library. It p
 
 Here's a screenshot of the calculator in action:
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](img1.png)
+
+![Calculator Screenshot](img2.png)
+
+![Calculator Screenshot](img3.png)
 
 
 ## Acknowledgements
