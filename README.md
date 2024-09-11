@@ -37,8 +37,6 @@ Here's a screenshot of the calculator in action:
 
 ![Calculator Screenshot](img3.png)
 
-![Calculator Video](calci.mp4)
-
 ## Acknowledgements
 
 - Thanks to Python and Tkinter for providing a simple way to create GUI applications.
