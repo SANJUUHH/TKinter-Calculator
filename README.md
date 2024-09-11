@@ -37,6 +37,7 @@ Here's a screenshot of the calculator in action:
 
 ![Calculator Screenshot](img3.png)
 
+![Calculator Video](calci.mp4)
 
 ## Acknowledgements
 
